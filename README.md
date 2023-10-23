@@ -13,7 +13,7 @@
 
 1. Клонирование репозитория:
    
-    `git clone https://github.com/Iultina/tree_cost_analisys.gi`
+    `git clone git@github.com:Iultina/tree_cost_analisys.git`
     
   
 2. Установка зависимостей:
